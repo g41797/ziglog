@@ -4,6 +4,6 @@
 
 [![CI](https://github.com/g41797/ziglog/actions/workflows/ci.yml/badge.svg)](https://github.com/g41797/ziglog/actions/workflows/ci.yml)
 
-WIP
+DEVELOPMENT REPOSITORY for [Zig syslog client](https://github.com/g41797/syslog)
 
 ![](_logo/CLion_icon.png)
