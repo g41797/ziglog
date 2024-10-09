@@ -1,9 +1,8 @@
-![](_logo/syslogzig-removebg.png)
 
-# ziglog
+# Development repository for [Zig syslog client](https://github.com/g41797/syslog)
 
 [![CI](https://github.com/g41797/ziglog/actions/workflows/ci.yml/badge.svg)](https://github.com/g41797/ziglog/actions/workflows/ci.yml)
 
-DEVELOPMENT REPOSITORY for [Zig syslog client](https://github.com/g41797/syslog)
+
 
 ![](_logo/CLion_icon.png)
